@@ -63,6 +63,6 @@ Este projeto está licenciado sob a [Apache License 2.0](LICENSE). No entanto, o
 - **Email:** [anacp20@gmail.com](mailto:anacp20@gmail.com)  
 - **GitHub:** [@IsabelCasPe](https://github.com/IsabelCasPe)  
 - **Site:** [isabelcaspe.github.io](https://isabelcaspe.github.io/)  
-- **Repositório:** [github.com/IsabelCasPe/Finance-Math](https://github.com/IsabelCasPe/Finance-Math)
+- **Repositório:** [github.com/IsabelCasPe/Finance-Math](https://github.com/IsabelCasPe/Finance-Math-)
 
 ⭐ **Gostou do curso? Deixe uma estrela no repositório e compartilhe com quem precisa!** ⭐
