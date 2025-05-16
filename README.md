@@ -35,7 +35,7 @@ O curso é composto por **6 capítulos**, disponíveis em PDF:
 
 ## 🚀 Como Usar
 - **Baixe os PDFs** dos capítulos acima para estudar offline.  
-- **Acesse o curso online** no [site oficial](https://IsabelCasPe.github.io/Finance-Math/) via GitHub Pages, com uma interface elegante e links diretos para cada capítulo.  
+- **Acesse o curso online** no [site oficial](https://IsabelCasPe.github.io/Finance-Math-/) via GitHub Pages, com uma interface elegante e links diretos para cada capítulo.  
 - **Explore o repositório** para atualizações e materiais extras.  
 
 📢 **Nota:** Este material é destinado a uso educacional pessoal. Para uso comercial ou distribuição, entre em contato com a autora.
