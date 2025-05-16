@@ -41,7 +41,7 @@ O curso é composto por **6 capítulos**, disponíveis em PDF:
 📢 **Nota:** Este material é destinado a uso educacional pessoal. Para uso comercial ou distribuição, entre em contato com a autora.
 
 ## 🔗 Outros Projetos
-Gostou do **Finance-Math**? Confira também o repositório **[Controle Linear - Materiais Didáticos](https://github.com/IsabelCasPe/controle-linear-slides)**, com slides, exercícios e códigos em MATLAB/Python para sistemas de controle, com aplicações financeiras e de engenharia. Mais um projeto **chiquérrimo** da Prof. Ana Isabel Castillo!
+Gostou do **Finance-Math**? Confira também o repositório **[Controle Linear - Materiais Didáticos](https://github.com/IsabelCasPe/controle-linear-)**, com slides, exercícios e códigos em MATLAB/Python para sistemas de controle, com aplicações financeiras e de engenharia. Mais um projeto **Educativo** da Prof. Ana Isabel Castillo!
 
 ## 📖 Convite para Estudar
 Seja você um estudante sonhando com uma carreira de sucesso, um engenheiro planejando projetos inovadores ou um economista decifrando mercados, o **Finance-Math** é o seu guia para transformar números em oportunidades. Mergulhe nos capítulos, resolva os exercícios e construa um futuro financeiro sólido! **Que tal começar agora?**
