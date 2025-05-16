@@ -1,7 +1,7 @@
 # Finance-Math: Matemática Financeira para Finanças e Engenharia Econômica
 
 🌟 **Bem-vindo ao Finance-Math!** 🌟  
-Desenvolvido pela **Prof. Ana Isabel Castillo**, este curso completo de Matemática Financeira é um convite para estudantes e profissionais de **Finanças**, **Engenharia** e **Economia** dominarem conceitos essenciais com uma abordagem prática e elegante. Com **6 capítulos** repletos de slides, exemplos reais, gráficos e exercícios resolvidos, o **Finance-Math** transforma números em decisões estratégicas. Prepare-se para um aprendizado **chiquérrimo** que conecta teoria ao mundo real!
+Desenvolvido pela **Prof. Ana Isabel Castillo**, este curso completo de Matemática Financeira é um convite para estudantes e profissionais de **Finanças**, **Engenharia** e **Economia** dominarem conceitos essenciais com uma abordagem prática e elegante. Com **6 capítulos** repletos de slides, exemplos reais, gráficos e exercícios resolvidos, o **Finance-Math** transforma números em decisões estratégicas. Prepare-se para um aprendizado **sofisticado** que conecta teoria ao mundo real!
 
 ## 🎯 Sobre o Curso
 O **Finance-Math** é um material didático de excelência, projetado para ensinar desde os fundamentos até tópicos avançados de Matemática Financeira. Cada capítulo combina explicações claras, aplicações práticas (como financiamentos, investimentos e títulos) e exercícios que desafiam e inspiram. Perfeito para quem quer se destacar no mercado financeiro, na gestão de projetos ou na análise econômica.
@@ -41,7 +41,7 @@ O curso é composto por **6 capítulos**, disponíveis em PDF:
 📢 **Nota:** Este material é destinado a uso educacional pessoal. Para uso comercial ou distribuição, entre em contato com a autora.
 
 ## 🔗 Outros Projetos
-Gostou do **Finance-Math**? Confira também o repositório **[Controle Linear - Materiais Didáticos](https://github.com/IsabelCasPe/controle-linear-)**, com slides, exercícios e códigos em MATLAB/Python para sistemas de controle, com aplicações financeiras e de engenharia. Mais um projeto **Educativo** da Prof. Ana Isabel Castillo!
+Gostou do **Finance-Math**? Confira também o repositório **[Controle Linear - Materiais Didáticos](https://github.com/IsabelCasPe/controle-linear-)**, com slides, exercícios e códigos em MATLAB/Python para sistemas de controle, com aplicações financeiras e de engenharia. Mais um projeto **Excepcional** da Prof. Ana Isabel Castillo!
 
 ## 📖 Convite para Estudar
 Seja você um estudante sonhando com uma carreira de sucesso, um engenheiro planejando projetos inovadores ou um economista decifrando mercados, o **Finance-Math** é o seu guia para transformar números em oportunidades. Mergulhe nos capítulos, resolva os exercícios e construa um futuro financeiro sólido! **Que tal começar agora?**
