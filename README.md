@@ -55,6 +55,12 @@ Um **obrigado especial** a todos que acompanham e valorizam este projeto! Como p
 - Incluir simulações financeiras em Python/R para VPL, TIR e precificação de títulos.  
 - Criar vídeos explicativos para cada capítulo, com exemplos práticos.
 
+  ## 📚 Referências Bibliográficas
+Este curso foi desenvolvido com base em referências consagradas em Matemática Financeira e Finanças Corporativas, garantindo rigor acadêmico e aplicabilidade prática:
+
+- ROSS, S. A.; WESTERFIELD, R. W.; JAFFE, J. *Administração financeira*. 10. ed. Porto Alegre: Bookman, 2013.
+- NETO, A. A. *Matemática financeira e suas aplicações*. 14. ed. São Paulo: Atlas, 2018.
+
 ## 📜 Licença
 Este projeto está licenciado sob a [Apache License 2.0](LICENSE). No entanto, os PDFs são materiais educacionais destinados exclusivamente a uso pessoal e acadêmico. Uso comercial ou distribuição requer autorização expressa da autora, Prof. Ana Isabel Castillo.
 
