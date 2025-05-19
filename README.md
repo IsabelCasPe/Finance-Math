@@ -1,8 +1,9 @@
-# Finance-Math: Matemática Financeira para Finanças e Engenharia Econômica
+# Finance-Math
 
-🌟 **Bem-vindo ao Finance-Math!** 🌟  
-Desenvolvido pela **Prof. Ana Isabel Castillo**, este curso completo de Matemática Financeira é um convite para estudantes e profissionais de **Finanças**, **Engenharia** e **Economia** dominarem conceitos essenciais com uma abordagem prática e elegante. Com **6 capítulos** repletos de slides, exemplos reais, gráficos e exercícios resolvidos, o **Finance-Math** transforma números em decisões estratégicas. Prepare-se para um aprendizado **sofisticado** que conecta teoria ao mundo real!
+Repositório com códigos e materiais para Matemática Financeira, focado em precificação de opções e análise de risco. Inclui uma implementação da fórmula Black-Scholes, alinhada com minha pesquisa de doutorado sobre modelos de contágio financeiro e medidas de risco (VaR, CVaR).
 
+🌟 **Bem-vindo!** 🌟  
+Desenvolvido por **Ana Isabel Castillo**, este repositório oferece recursos práticos para estudantes e profissionais de Finanças, Engenharia e Economia. Com 6 capítulos de slides, exemplos reais, gráficos e exercícios resolvidos, transforma conceitos complexos em decisões estratégicas. Explore o código Black-Scholes e mergulhe em um aprendizado que une teoria e prática!
 ## 🎯 Sobre o Curso
 O **Finance-Math** é um material didático de excelência, projetado para ensinar desde os fundamentos até tópicos avançados de Matemática Financeira. Cada capítulo combina explicações claras, aplicações práticas (como financiamentos, investimentos e títulos) e exercícios que desafiam e inspiram. Perfeito para quem quer se destacar no mercado financeiro, na gestão de projetos ou na análise econômica.
 
