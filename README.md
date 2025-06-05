@@ -46,7 +46,7 @@ Gostou do **Finance-Math**? Confira também o repositório **[Controle Linear - 
 
 ## Arquivos Brabo 📈
 
-- **[finance_risk02.gif](finance_risk02.gif)**: Esfera Julia 4D quaterniônica modelando portfólios em colapso, com Lyapunov ~2.7 e pontos de Poincaré marcando defaults tipo GOLL4.SA. Caos sincronizado com o funkão! 🕺
+- **[finance_risk02.gif](finance_risk02.gif)**: Esfera Julia 4D quaterniônica modelando portfólios em colapso, com Lyapunov ~2.7 e pontos de Poincaré marcando defaults tipo GOLL4.SA. Caos sincronizado.
 - **[resumodemathfinance1.pdf](resumodemathfinance1.pdf)**: Beamer “Sistemas Dinâmicos na Matemática Financeira”, com juros compostos, amortizações, GARCH, Black-Scholes, e caos brabo (Lyapunov 2.7). Base do *Math-Dynamics Lab*! 📊
 
 ## Sobre o Projeto
