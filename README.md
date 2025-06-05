@@ -44,6 +44,26 @@ O curso é composto por **6 capítulos**, disponíveis em PDF:
 ## 🔗 Outros Projetos
 Gostou do **Finance-Math**? Confira também o repositório **[Controle Linear - Materiais Didáticos](https://github.com/IsabelCasPe/controle-linear-)**, com slides, exercícios e códigos em MATLAB/Python para sistemas de controle, com aplicações financeiras e de engenharia. Mais um projeto **Excepcional** da Prof. Ana Isabel Castillo!
 
+## Arquivos Brabo 📈
+
+- **[finance_risk02.gif](finance_risk02.gif)**: Esfera Julia 4D quaterniônica modelando portfólios em colapso, com Lyapunov ~2.7 e pontos de Poincaré marcando defaults tipo GOLL4.SA. Caos sincronizado com o funkão! 🕺
+- **[resumodemathfinance1.pdf](resumodemathfinance1.pdf)**: Beamer “Sistemas Dinâmicos na Matemática Financeira”, com juros compostos, amortizações, GARCH, Black-Scholes, e caos brabo (Lyapunov 2.7). Base do *Math-Dynamics Lab*! 📊
+
+## Sobre o Projeto
+
+- **O que é?**: Usamos sistemas dinâmicos (discretos e contínuos) pra modelar crises financeiras, volatilidade (mapa logístico) e riscos sistêmicos.
+- **Destaques**:
+  - Esfera Julia 4D: Portfólios caóticos, como GARCH explodindo.
+  - Pontos de Poincaré: Defaults e picos de volatilidade.
+  - Lyapunov (~2.7): Caos financeiro total, tipo crise de 2008 ou GOLL4.SA.
+- **Inspiração**: A^2 (Artur Avila) 
+
+## Como Usar
+
+- Veja o GIF pra sentir o caos visual.
+- Baixe o PDF pra mergulhar nos sistemas dinâmicos financeiros.
+- Quer mais? Fica ligado no *Math-Dynamics Lab* e no caos que tá por vir! 🚀
+
 ## 📖 Convite para Estudar
 Seja você um estudante sonhando com uma carreira de sucesso, um engenheiro planejando projetos inovadores ou um economista decifrando mercados, o **Finance-Math** é o seu guia para transformar números em oportunidades. Mergulhe nos capítulos, resolva os exercícios e construa um futuro financeiro sólido! **Que tal começar agora?**
 
