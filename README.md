@@ -77,10 +77,10 @@ The Iran crisis, with its threat to the Strait of Hormuz (33% of global oil), sp
 Inspired by *GeoChaosDynamics* 
 ## Contents
 
-- **`systemic_risk_iran_crisis_v20.mp4`**:
+- **`systemic_risk_iran_crisis_v20.mp4`**: [Systemic Risk in Chaos: Iran Crisis 2025](systemic_risk_iran_crisis_v20.mp4)
   - **Description**: A Monte Carlo animation visualizing *Systemic Risk* in the Iran crisis. Shows 10 scenarios (S1-S10), VaR (95%, neonpink dashed line), and CVaR (95%, text). Includes a fuel price shock (0.05, prob. 0.3) and perturbation (\( 0.02 \cos(t/5) \)). Credits and watermark: “© Ana Isabel C. Finance Math”.
  
-- **`analisedeatualidade.pdf`**:
+- **`analisedeatualidade.pdf`**:  [Systemic Risk in Chaos: Iran Crisis 2025](analisedeatualidade.pdf)
   - **Description**: A Beamer presentation analyzing the Iran crisis (June 2025). Covers:
     - Current chaos: Trump’s airstrikes and market impacts.
     - Escalation scenarios: Pessimistic (oil +$30/barrel), realistic (+$10/barrel), optimistic (stable).
