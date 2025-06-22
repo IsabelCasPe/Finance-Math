@@ -64,6 +64,44 @@ Gostou do **Finance-Math**? Confira também o repositório **[Controle Linear - 
 - Baixe o PDF pra mergulhar nos sistemas dinâmicos financeiros.
 - Quer mais? Fica ligado no *Math-Dynamics Lab* e no caos que tá por vir! 🚀
 
+# Finance Math: Systemic Risk in Iran Crisis 2025
+
+Welcome to the chaos, mano! 🌍 This project dives into the financial turbulence triggered by the Iran crisis (June 2025), where Trump's airstrikes on Fordo, Natanz, and Isfahan (21/06/2025) shook global markets. Using Monte Carlo simulations, *Value-at-Risk* (VaR), and *Conditional Value-at-Risk* (CVaR), we model *Systemic Risk* amplified by fuel inflation and geopolitical shocks. Built with 💖 by Ana Isabel C. 
+## Project Overview
+
+The Iran crisis, with its threat to the Strait of Hormuz (33% of global oil), spikes oil prices, fuels inflation, and risks financial contagion. This project:
+- Simulates 10 scenarios (S1-S10) with a Monte Carlo model, capturing a crisis shock (0.05, prob. 0.3) and perturbation (\( 0.02 \cos(t/5) \)).
+- Analyzes escalation scenarios (pessimistic, realistic, optimistic) and their impact on *Systemic Risk*.
+- Highlights fuel inflation as a key driver of global economic chaos.
+
+Inspired by *GeoChaosDynamics* 
+## Contents
+
+- **`systemic_risk_iran_crisis_v20.mp4`**:
+  - **Description**: A Monte Carlo animation visualizing *Systemic Risk* in the Iran crisis. Shows 10 scenarios (S1-S10), VaR (95%, neonpink dashed line), and CVaR (95%, text). Includes a fuel price shock (0.05, prob. 0.3) and perturbation (\( 0.02 \cos(t/5) \)). Credits and watermark: “© Ana Isabel C. Finance Math”.
+ 
+- **`analisedeatualidade.pdf`**:
+  - **Description**: A Beamer presentation analyzing the Iran crisis (June 2025). Covers:
+    - Current chaos: Trump’s airstrikes and market impacts.
+    - Escalation scenarios: Pessimistic (oil +$30/barrel), realistic (+$10/barrel), optimistic (stable).
+    - Fuel inflation: Role of the Strait of Hormuz in *Systemic Risk*.
+    - Modeling: Monte Carlo with VaR/CVaR, linked to `v20.mp4`.
+  - **Usage**: Open with a PDF viewer. Perfect for QFE or classroom chaos (22/06/2025).
+
+## Usage
+
+- **Video (`v20.mp4`)**:
+  - Play with any media player (ex.: VLC).
+ 
+- **Presentation (`analisedeatualidade.pdf`)**
+
+## License
+
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)  
+Copyright © 2025 Ana Isabel C. 
+*“Trump x Irã tá um caos, mas S1-S10 e CVaR brilham no Finance Math!”*  
+© Ana Isabel C.  22/06/2025
+
 ## 📖 Convite para Estudar
 Seja você um estudante sonhando com uma carreira de sucesso, um engenheiro planejando projetos inovadores ou um economista decifrando mercados, o **Finance-Math** é o seu guia para transformar números em oportunidades. Mergulhe nos capítulos, resolva os exercícios e construa um futuro financeiro sólido! **Que tal começar agora?**
 
