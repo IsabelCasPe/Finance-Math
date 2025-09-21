@@ -62,7 +62,7 @@ Gostou do **Finance-Math**? Confira também o repositório **[Controle Linear - 
 
 - Veja o GIF pra sentir o caos visual.
 - Baixe o PDF pra mergulhar nos sistemas dinâmicos financeiros.
-- Quer mais? Fica ligado no *Math-Dynamics Lab* e no caos que tá por vir! 🚀
+- Quer mais? Fica ligado no *Math-Dynamics Lab* e no caos que tá por vir! 
 
 # Finance Math: Systemic Risk in Iran Crisis 2025
 
@@ -131,3 +131,9 @@ Este projeto está licenciado sob a [Apache License 2.0](LICENSE). No entanto, o
 - **Repositório:** [github.com/IsabelCasPe/Finance-Math](https://github.com/IsabelCasPe/Finance-Math-)
 
 ⭐ **Gostou do curso? Deixe uma estrela no repositório e compartilhe com quem precisa!** ⭐
+
+## Inspiration.
+
+> "Nas equações do mercado, o caos financeiro dança com a ordem quântica  @FinanceMaths, onde a ciência guia e o risco se rende à análise." 📈 💙
+> Copyright © 2025 Prof. Ana Isabel C.
+---
