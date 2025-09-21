@@ -124,7 +124,7 @@ Este curso foi desenvolvido com base em referências consagradas em Matemática 
 Este projeto está licenciado sob a [Apache License 2.0](LICENSE). No entanto, os PDFs são materiais educacionais destinados exclusivamente a uso pessoal e acadêmico. Uso comercial ou distribuição requer autorização expressa da autora, Prof. Ana Isabel Castillo.
 
 ## 📬 Contato
-- **Autora:** Prof. Ana Isabel Castillo  
+- **Autora:** Prof. Ana Isabel Castillo   
 - **Email:** [anacp20@gmail.com](mailto:anacp20@gmail.com)  
 - **GitHub:** [@IsabelCasPe](https://github.com/IsabelCasPe)  
 - **Site:** [isabelcaspe.github.io](https://isabelcaspe.github.io/)  
