@@ -1,4 +1,16 @@
-# Finance-Math
+<!-- HERO -->
+# Arte & Ciência em Movimento — Matemática Viva 💎 📈💹 ✨
+
+![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-gold)
+![Made with ❤](https://img.shields.io/badge/Made%20with-❤-ff69b4)
+
+**PT · EN · ES** · [Galeria](#galeria--gifs) · [Instalação](#instalação--installation--instalación) · [Licença MIT](#licença--license--licencia)
+
+---
+
+## Finance-Math
 
 Repositório com códigos e materiais para Matemática Financeira, focado em precificação de opções e análise de risco. Inclui uma implementação da fórmula Black-Scholes, alinhada com minha pesquisa de doutorado sobre modelos de contágio financeiro e medidas de risco (VaR, CVaR).
 
