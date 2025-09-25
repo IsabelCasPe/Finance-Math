@@ -10,7 +10,7 @@
 
 ---
 
-## Finance-Math
+## Finance-Math 
 
 Repositório com códigos e materiais para Matemática Financeira, focado em precificação de opções e análise de risco. Inclui uma implementação da fórmula Black-Scholes, alinhada com minha pesquisa de doutorado sobre modelos de contágio financeiro e medidas de risco (VaR, CVaR).
 
