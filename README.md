@@ -3,10 +3,10 @@
 
 ![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-gold)
+![License](https://img.shields.io/badge/License-Apache-gold)
 ![Made with ❤](https://img.shields.io/badge/Made%20with-❤-ff69b4)
 
-**PT · EN · ES** · [Galeria](#galeria--gifs) · [Instalação](#instalação--installation--instalación) · [Licença MIT](#licença--license--licencia)
+**PT · EN · ES** · [Galeria](#galeria--gifs) · [Instalação](#instalação--installation--instalación) · [Apache License 2.0](#licença--license--licencia)
 
 ---
 
@@ -109,7 +109,7 @@ Inspired by *GeoChaosDynamics*
 
 ## License
 
-Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)  
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Apache License 2.0  
 Copyright © 2025 Ana Isabel C. 
 *“Trump x Irã tá um caos, mas S1-S10 e CVaR brilham no Finance Math!”*  
 © Ana Isabel C.  22/06/2025
