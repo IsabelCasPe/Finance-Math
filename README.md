@@ -60,7 +60,15 @@ Gostou do **Finance-Math**? Confira também o repositório **[Controle Linear - 
 
 - **![finance_risk02.gif](finance_risk02.gif)**: Esfera Julia 4D quaterniônica modelando portfólios em colapso, com Lyapunov ~2.7 e pontos de Poincaré marcando defaults tipo GOLL4.SA. Caos sincronizado.
 - **[resumodemathfinance1.pdf](resumodemathfinance1.pdf)**: Beamer “Sistemas Dinâmicos na Matemática Financeira”, com juros compostos, amortizações, GARCH, Black-Scholes, e caos brabo (Lyapunov 2.7). Base do *Math-Dynamics Lab*! 📊
+---
+##  📈 Relatório de Dividendos BBAS3 (2015-2025) 🌌
 
+- [Banco do Brasil (BBAS3)](relatoriobb.pdf)
+- **Elaborado por**: @IsabelCasPe  
+- **Repositório**: [Finance-Math](https://github.com/IsabelCasPe/Finance-Math)  
+- **Data**: 30 de Setembro de 2025
+
+---
 ## Sobre o Projeto
 
 - **O que é?**: Usamos sistemas dinâmicos (discretos e contínuos) pra modelar crises financeiras, volatilidade (mapa logístico) e riscos sistêmicos.
