@@ -133,6 +133,14 @@ Seja você um estudante sonhando com uma carreira de sucesso, um engenheiro plan
 Um **obrigado especial** a todos que acompanham e valorizam este projeto! Como professora apaixonada por ensinar, meu maior desejo é que o **Finance-Math** inspire e empodere você na sua jornada acadêmica e profissional. Agradeço de coração pelo seu interesse e confiança. Vamos juntos fazer a diferença!  
 — **Prof. Ana Isabel Castillo**
 
+## 🎬 Dynamic Simulation (Bloomberg-style dashboard)
+
+The full animated Vasicek + Kalman filtering simulation  
+is available on Instagram:
+
+👉 [Watch the dynamic version here](https://www.instagram.com/isabel_maths/)
+
+
 ##  Planos Futuros
 - Adicionar um caderno de exercícios interativos com resoluções detalhadas.  
 - Incluir simulações financeiras em Python/R para VPL, TIR e precificação de títulos.  
