@@ -139,7 +139,7 @@ Um **obrigado especial** a todos que acompanham e valorizam este projeto! Como p
   
 - ![Vasicek Model](ModelVasicek_fig02.jpeg)
   
-- ![Vasicek Model](ModelVasicek_fig03.jpeg)
+- ![Vasicek Model](ModelVasicek_fig03.jpeg) 
   
 - ![Vasicek Model](ModelVasicek_fig04.jpeg)
 
