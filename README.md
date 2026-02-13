@@ -135,6 +135,14 @@ Um **obrigado especial** a todos que acompanham e valorizam este projeto! Como p
 
 ## 🎬 Dynamic Simulation (Bloomberg-style dashboard)
 
+- ![Vasicek Model](ModelVasicek_fig01.jpeg)
+  
+- ![Vasicek Model](ModelVasicek_fig02.jpeg)
+  
+- ![Vasicek Model](ModelVasicek_fig03.jpeg)
+  
+- ![Vasicek Model](ModelVasicek_fig04.jpeg)
+
 The full animated Vasicek + Kalman filtering simulation  
 is available on Instagram:
 
