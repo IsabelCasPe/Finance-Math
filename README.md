@@ -133,6 +133,22 @@ Seja você um estudante sonhando com uma carreira de sucesso, um engenheiro plan
 Um **obrigado especial** a todos que acompanham e valorizam este projeto! Como professora apaixonada por ensinar, meu maior desejo é que o **Finance-Math** inspire e empodere você na sua jornada acadêmica e profissional. Agradeço de coração pelo seu interesse e confiança. Vamos juntos fazer a diferença!  
 — **Prof. Ana Isabel Castillo**
 
+## 🎬 Dynamic Simulation :  Ito Lemma GBM Quant Finance 
+
+- ![figure01](itofig01.png)
+  
+- ![figure 02](itofig02.png)
+  
+- ![figure 03](itofig03.png)
+  
+- ![figure 04](itofig04.png)
+
+
+The full animated Ito's Lemma simulation  
+is available on Instagram:
+
+👉 [Watch the dynamic version here](https://www.instagram.com/isabel_maths/)  
+  
 ## 🎬 Dynamic Simulation (Bloomberg-style dashboard)
 
 - ![Vasicek Model](ModelVasicek_fig01.jpeg)
