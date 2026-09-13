@@ -12,6 +12,10 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2504.01969-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2504.01969)
 [![JAES](https://img.shields.io/badge/JAES-Published-0B6E4F?style=for-the-badge&logo=readthedocs&logoColor=white)](https://ritha.eu/journals/JAES/issues/93/articles/7)
 
+---
+
+[![Instagram](https://img.shields.io/badge/📸_Instagram-@isabel__maths-C0C0C0?logo=instagram&logoColor=black)](https://www.instagram.com/isabel_maths/)
+[![YouTube](https://img.shields.io/badge/▶_YouTube-IsabelCasPe_Maths_∞-C0C0C0?logo=youtube&logoColor=black)](https://www.youtube.com/@isabelcastillo4230)
 
 ---
 
