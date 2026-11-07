@@ -134,7 +134,7 @@ The framework illustrates how borrower-level risk parameters contribute to expec
 
 **Beyond the equations:** Explore *Credit Risk Intelligence - IRB Dynamics *, a scientific animation featuring synthetic credit portfolios, Monte Carlo loss simulations, financial stress scenarios, and dynamic capital requirements.
 
-![Infografico](InfográficodeModelagemdeRiscodeCrédito.png) 
+- ![Infografico](InfográficodeModelagemdeRiscodeCrédito.png) 
 
 ---
 
