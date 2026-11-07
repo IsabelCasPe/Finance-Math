@@ -133,7 +133,8 @@ A visual introduction to credit risk modeling under the Internal Ratings-Based (
 The framework illustrates how borrower-level risk parameters contribute to expected loss estimation and regulatory capital calculations.
 
 **Beyond the equations:** Explore *Credit Risk Intelligence - IRB Dynamics *, a scientific animation featuring synthetic credit portfolios, Monte Carlo loss simulations, financial stress scenarios, and dynamic capital requirements.
-![Infografico](Infográfico de Modelagem de Risco de Crédito.png)
+![Infografico](InfográficodeModelagemdeRiscodeCrédito.png)
+
 🎬 **Watch the scientific animation on YouTube:**  
 
 [![Watch on YouTube](https://img.shields.io/badge/▶_Watch-IRB_Dynamics_V1.0-B8E3F4?style=for-the-badge&logo=youtube&logoColor=102B50&labelColor=D4AF37)](https://www.youtube.com/watch?v=FgPmk7nwGAY)
