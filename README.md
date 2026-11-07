@@ -145,9 +145,6 @@ The framework illustrates how borrower-level risk parameters contribute to expec
 
 *Educational and research visualization. Synthetic data; regulatory requirements depend on the applicable jurisdiction and exposure class.*
  
-*Hidden Morse signature: Loki 🐾*
-
-#CreditRisk #QuantitativeFinance #IRB #FinancialMathematics #RiskManagement    
 
 ## Usage
 
