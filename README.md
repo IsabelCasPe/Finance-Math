@@ -118,6 +118,31 @@ Inspired by *GeoChaosDynamics*
     - Modeling: Monte Carlo with VaR/CVaR, linked to `v20.mp4`.
   - **Usage**: Open with a PDF viewer. Perfect for QFE or classroom chaos (22/06/2025).
 
+## ## Credit Risk Intelligence : IRB Modeling 📊∞
+
+**From Borrower Risk to Regulatory Capital**
+
+A visual introduction to credit risk modeling under the Internal Ratings-Based (IRB) framework, connecting five fundamental components:
+
+- **PD:** Probability of Default
+- **LGD:** Loss Given Default
+- **EAD:** Exposure at Default
+- **EL:** Expected Loss
+- **IRB Capital:** Risk-sensitive regulatory capital requirements
+
+The framework illustrates how borrower-level risk parameters contribute to expected loss estimation and regulatory capital calculations.
+
+**Beyond the equations:** Explore *Credit Risk Intelligence - IRB Dynamics V1.0*, a scientific animation featuring synthetic credit portfolios, Monte Carlo loss simulations, financial stress scenarios, and dynamic capital requirements.
+![]()
+🎬 **Watch the scientific animation on YouTube:**  
+[IsabelCasPe – Maths ∞](https://www.youtube.com/watch?v=FgPmk7nwGAY)
+
+*Educational and research visualization. Synthetic data; regulatory requirements depend on the applicable jurisdiction and exposure class.*
+ 
+*Hidden Morse signature: Loki 🐾*
+
+#CreditRisk #QuantitativeFinance #IRB #FinancialMathematics #RiskManagement    
+
 ## Usage
 
 - **Video (`v20.mp4`)**:
